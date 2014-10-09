@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/User/Monokai Soda (SL).tmTheme",
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Markdown"
+	],
+	"soda_classic_tabs": true,
+	"theme": "Soda Dark 3.sublime-theme"
+}
