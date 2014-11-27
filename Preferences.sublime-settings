@@ -3,9 +3,11 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"soda_classic_tabs": true,
-	"theme": "Soda Dark 3.sublime-theme"
+	"theme": "Soda Dark 3.sublime-theme",
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
 }
