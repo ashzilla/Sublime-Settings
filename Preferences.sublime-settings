@@ -1,13 +1,14 @@
 {
 	"color_scheme": "Packages/User/Monokai Soda (SL).tmTheme",
+	"convert_tabspaces_on_save": true,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"soda_classic_tabs": true,
 	"tab_size": 2,
 	"theme": "Soda Dark 3.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"scroll_past_end": true,
 }
