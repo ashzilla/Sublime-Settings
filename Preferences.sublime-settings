@@ -4,9 +4,10 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
 		"Markdown",
-		"LiveReload"
+		"Vintage",
+		"LiveReload",
+		"LoremPixel"
 	],
 	"scroll_past_end": true,
 	"soda_classic_tabs": true,
